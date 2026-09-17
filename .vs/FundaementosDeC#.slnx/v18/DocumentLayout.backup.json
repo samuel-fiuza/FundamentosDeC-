@@ -20,17 +20,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fic\\Desktop\\EstruturaRepeti\u00E7\u00E3o\\Program.cs",
               "RelativeDocumentMoniker": "..\\EstruturaRepeti\u00E7\u00E3o\\Program.cs",
-              "ToolTip": "C:\\Users\\fic\\Desktop\\EstruturaRepeti\u00E7\u00E3o\\Program.cs*",
-              "RelativeToolTip": "..\\EstruturaRepeti\u00E7\u00E3o\\Program.cs*",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAADcAAAAoAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\EstruturaRepeti\u00E7\u00E3o\\Program.cs",
+              "RelativeToolTip": "..\\EstruturaRepeti\u00E7\u00E3o\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-16T22:13:28.481Z",
               "EditorCaption": ""
@@ -43,7 +47,7 @@
               "RelativeDocumentMoniker": "..\\OperadorComparacao\\Program.cs",
               "ToolTip": "C:\\Users\\fic\\Desktop\\OperadorComparacao\\Program.cs",
               "RelativeToolTip": "..\\OperadorComparacao\\Program.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAAAIsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAHcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-11T00:34:50.584Z",
               "EditorCaption": ""
@@ -58,7 +62,8 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAE0AAAAAAAAAAAAAAFsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-10T00:16:03.023Z"
+              "WhenOpened": "2026-09-10T00:16:03.023Z",
+              "EditorCaption": ""
             }
           ]
         }
