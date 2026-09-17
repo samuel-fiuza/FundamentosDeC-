@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\FundaementosDeC#\bin\Debug\net10.0\FundaementosDeC#.exe
+C:\Users\fic\Desktop\FundaementosDeC#\bin\Debug\net10.0\FundaementosDeC#.deps.json
+C:\Users\fic\Desktop\FundaementosDeC#\bin\Debug\net10.0\FundaementosDeC#.runtimeconfig.json
+C:\Users\fic\Desktop\FundaementosDeC#\bin\Debug\net10.0\FundaementosDeC#.dll
+C:\Users\fic\Desktop\FundaementosDeC#\bin\Debug\net10.0\FundaementosDeC#.pdb
+C:\Users\fic\Desktop\FundaementosDeC#\obj\Debug\net10.0\FundaementosDeC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\FundaementosDeC#\obj\Debug\net10.0\FundaementosDeC#.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\FundaementosDeC#\obj\Debug\net10.0\FundaementosDeC#.AssemblyInfo.cs
+C:\Users\fic\Desktop\FundaementosDeC#\obj\Debug\net10.0\FundaementosDeC#.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\FundaementosDeC#\obj\Debug\net10.0\FundaementosDeC#.dll
+C:\Users\fic\Desktop\FundaementosDeC#\obj\Debug\net10.0\refint\FundaementosDeC#.dll
+C:\Users\fic\Desktop\FundaementosDeC#\obj\Debug\net10.0\FundaementosDeC#.pdb
+C:\Users\fic\Desktop\FundaementosDeC#\obj\Debug\net10.0\FundaementosDeC#.genruntimeconfig.cache
+C:\Users\fic\Desktop\FundaementosDeC#\obj\Debug\net10.0\ref\FundaementosDeC#.dll
+C:\Users\fic\Desktop\FundaementosDeC#\obj\Debug\net10.0\Fundaeme.2B78133C.Up2Date
