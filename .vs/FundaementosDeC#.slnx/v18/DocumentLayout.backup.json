@@ -3,10 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\fic\\Desktop\\FundaementosDeC#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E551969-7442-434A-A5C1-082EEA476787}|..\\EstruturaRepeti\u00E7\u00E3o\\EstruturaRepeti\u00E7\u00E3o.csproj|c:\\users\\fic\\desktop\\estruturarepeti\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{203639DD-3A58-42B5-93EE-6015260BB134}|..\\Array\\Array.csproj|c:\\users\\fic\\desktop\\array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E551969-7442-434A-A5C1-082EEA476787}|..\\EstruturaRepeti\u00E7\u00E3o\\EstruturaRepeti\u00E7\u00E3o.csproj|c:\\users\\fic\\desktop\\estruturarepeti\u00E7\u00E3o\\estruturarepeti\u00E7\u00E3o.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8E551969-7442-434A-A5C1-082EEA476787}|..\\EstruturaRepeti\u00E7\u00E3o\\EstruturaRepeti\u00E7\u00E3o.csproj|c:\\users\\fic\\desktop\\estruturarepeti\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC940736-85D2-8E13-0CF2-C48E08CED736}|FundaementosDeC#.csproj|c:\\users\\fic\\desktop\\fundaementosdec#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,7 +23,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,26 +31,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EstruturaRepeti\u00E7\u00E3o",
-              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\EstruturaRepeti\u00E7\u00E3o\\EstruturaRepeti\u00E7\u00E3o.csproj",
-              "RelativeDocumentMoniker": "..\\EstruturaRepeti\u00E7\u00E3o\\EstruturaRepeti\u00E7\u00E3o.csproj",
-              "ToolTip": "C:\\Users\\fic\\Desktop\\EstruturaRepeti\u00E7\u00E3o\\EstruturaRepeti\u00E7\u00E3o.csproj",
-              "RelativeToolTip": "..\\EstruturaRepeti\u00E7\u00E3o\\EstruturaRepeti\u00E7\u00E3o.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-18T22:07:03.016Z",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Array\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Array\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Array\\Program.cs*",
+              "RelativeToolTip": "..\\Array\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T00:12:26.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fic\\Desktop\\EstruturaRepeti\u00E7\u00E3o\\Program.cs",
               "RelativeDocumentMoniker": "..\\EstruturaRepeti\u00E7\u00E3o\\Program.cs",
-              "ToolTip": "C:\\Users\\fic\\Desktop\\EstruturaRepeti\u00E7\u00E3o\\Program.cs*",
-              "RelativeToolTip": "..\\EstruturaRepeti\u00E7\u00E3o\\Program.cs*",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAAAHIAAAAXAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\EstruturaRepeti\u00E7\u00E3o\\Program.cs",
+              "RelativeToolTip": "..\\EstruturaRepeti\u00E7\u00E3o\\Program.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAGkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-16T22:13:28.481Z",
               "EditorCaption": ""
@@ -77,8 +77,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAFkAAAAAAAAAAAAAAFsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-10T00:16:03.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-10T00:16:03.023Z"
             }
           ]
         }
